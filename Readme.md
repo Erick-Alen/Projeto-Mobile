@@ -1,0 +1,1 @@
+Primeira entrega do projeto da disciplina "Programação para Dispositivos Móveis", que consiste em desenvolver um aplicativo de carteira de vacinação digital. Aqui, foi realizado a autenticação do usuário, estilização e transição de telas
